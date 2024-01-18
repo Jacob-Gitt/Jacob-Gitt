@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jacob-Gitt
-- 👀 I’m interested in Human Computer Interaction
-- 🌱 I’m currently learning Informatics 
-- 💞️ I’m looking to collaborate on Human Centered Systems
+- 👀 I’m interested in Information Technology
+- 🌱 I’m currently Majoring in Informatics and minoring in Computer Science
+- 💞️ I’m looking to collaborate on IT systems
 - 📫 How to reach me jmschrei@uci.edu
 
 <!---
